@@ -1,0 +1,11 @@
+# Windows 7 / 8 (64-bit) build only — Python 3.8
+# Runtime dependencies for the PySide2 build.
+PySide2==5.15.2.1
+PyMuPDF==1.24.11
+Pillow==10.4.0
+python-docx==1.1.2
+openpyxl==3.1.5
+pytesseract>=0.3.10
+
+# Build tool (install separately if it is not present):
+# PyInstaller==6.22.3

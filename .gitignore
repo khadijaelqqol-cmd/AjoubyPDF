@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# PyInstaller output and build folders
+build/
+dist/
+*.spec
+
+# Local Python 3.8 toolchain used for the Windows 7/8 build
+Python38/
+
+# Built installers: upload them as GitHub Release assets instead of committing them
+release/installers/*.exe
+release/installers/*.zip
+*.log
+
+# Test and temporary folders
+tmp*/
+~$*
+
+# Editors and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
