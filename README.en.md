@@ -10,12 +10,12 @@ A lightweight Windows desktop PDF reader and editor in the spirit of Adobe Acrob
 
 ## ⬇️ Download
 
-> Installers are attached to the **Releases** page. Pick the build for your Windows version.
+> Download the build for your Windows version directly from the **latest release**. All releases are on the **Releases** page.
 
 | Windows version | Installer | Size | Download |
 |---|---|---|---|
-| **Windows 10 / 11** — 64-bit | `AjoubyPDF_Setup_win10.exe` | ≈ 102 MB | **[Latest release](../../releases/latest)** |
-| **Windows 7 / 8** — 64-bit (Win7 needs SP1) | `AjoubyPDF_Setup_win7.exe` | ≈ 46 MB | **[Latest release](../../releases/latest)** |
+| **Windows 10 / 11** — 64-bit | `AjoubyPDF_Setup_win10.exe` | ≈ 102 MB | **[Direct download](../../releases/latest/download/AjoubyPDF_Setup_win10.exe)** |
+| **Windows 7 / 8** — 64-bit (Win7 needs SP1) | `AjoubyPDF_Setup_win7.exe` | ≈ 46 MB | **[Direct download](../../releases/latest/download/AjoubyPDF_Setup_win7.exe)** |
 
 - **Not sure which one?** Windows 10/11 → `win10`. Windows 7/8 → `win7`.
 - **Windows 7** requires Service Pack 1 and [KB2999226](https://support.microsoft.com/help/2999226) (Universal C Runtime).

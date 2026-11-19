@@ -10,12 +10,12 @@
 
 ## ⬇️ تحميل البرنامج
 
-> الملفات مرفقة في صفحة **الإصدارات (Releases)**. اختر نسخة نظامك ثم نزّل ملف التثبيت.
+> نزّل نسخة نظامك مباشرة من **أحدث إصدار**. جميع الإصدارات متاحة في صفحة **الإصدارات (Releases)**.
 
 | نظام التشغيل | ملف التثبيت | الحجم | التحميل |
 |---|---|---|---|
-| **Windows 10 / 11** — 64-bit | `AjoubyPDF_Setup_win10.exe` | ≈ 102 MB | **[أحدث إصدار](../../releases/latest)** |
-| **Windows 7 / 8** — 64-bit (ويندوز 7 يحتاج SP1) | `AjoubyPDF_Setup_win7.exe` | ≈ 46 MB | **[أحدث إصدار](../../releases/latest)** |
+| **Windows 10 / 11** — 64-bit | `AjoubyPDF_Setup_win10.exe` | ≈ 102 MB | **[تحميل مباشر](../../releases/latest/download/AjoubyPDF_Setup_win10.exe)** |
+| **Windows 7 / 8** — 64-bit (ويندوز 7 يحتاج SP1) | `AjoubyPDF_Setup_win7.exe` | ≈ 46 MB | **[تحميل مباشر](../../releases/latest/download/AjoubyPDF_Setup_win7.exe)** |
 
 - **لا تعرف أي نسخة تختار؟** ويندوز 10 أو 11 ← نسخة `win10`. ويندوز 7 أو 8 ← نسخة `win7`.
 - **ويندوز 7** يحتاج Service Pack 1 وتحديث [KB2999226](https://support.microsoft.com/help/2999226) (Universal C Runtime).
